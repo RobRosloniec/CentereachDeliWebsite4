@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "name": "Breakfast Special",
+            "ingredients": "Two eggs any style with choice of bacon, ham, sausage or cheese",
+            "price": 6.79
+        },
+        {
+            "name": "Body Builder",
+            "ingredients": "Three eggs with Turkey and American Cheese on wheat bread",
+            "price": 7.99
+        },
+        {
+            "name": "Hot Stuff",
+            "ingredients": "Two eggs scrambled with Ham Cappy, American cheese and hot sause",
+            "price": 7.99
+        },
+        {
+            "name": "Hungry Man",
+            "ingredients": "Three eggs any style with bacon, ham, sausage and American cheese on a hero",
+            "price": 11.49
+        },
+        {
+            "name": "Pancake or French Toast",
+            "ingredients": "Pancakes and French Toast with choice of bacon, ham, sausage",
+            "price": 8.99
+        },
+        {
+            "name": "Western Omlet",
+            "ingredients": "Peppers, onion and ham omelette on a roll",
+            "price": 8.99
+        },
+        {
+            "name": "#1 Breakfast Wrap",
+            "ingredients": "Three egg whites with Cajun Turkey and Cheddar cheese",
+            "price": 8.99
+        },
+        {
+            "name": "#2 Breakfast Wrap",
+            "ingredients": "Three egg whites with Honey Turkey and Alpine Swiss cheese",
+            "price": 8.99
+        },
+        {
+            "name": "#3 Breakfast Wrap",
+            "ingredients": "Three egg whites with black olives, tomato and Mozzerella cheese",
+            "price": 8.99
+        },
+        {
+            "name": "#4 Breakfast Wrap",
+            "ingredients": "Three egg whites with spinach, tomato and Feta cheese",
+            "price": 8.99
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "wraps": [
+        {
+            "name": "#1 Lunch Wrap",
+            "ingredients": "Honey Turkey with Muenster cheese, lettuce, tomato, Honey Mustard",
+            "price": 12.49
+        },
+        {
+            "name": "#2 Lunch Wrap",
+            "ingredients": "Roast Beef with Pepper Jack cheese, lettuce tomato and horseradish dressing",
+            "price": 12.49
+        },
+        {
+            "name": "#3 Lunch Wrap",
+            "ingredients": "Grilled Chicken with Fresh Mozzerella cheese, lettuce, roasted red peppers and balsamic vinaigrette dressing",
+            "price": 12.49
+        },
+        {
+            "name": "#4 Lunch Wrap",
+            "ingredients": "Grilled Chicken Ceaser with seasoned croutons",
+            "price": 12.49
+        },
+        {
+            "name": "#5 Lunch Wrap",
+            "ingredients": "Pepper Turkey with Provolone cheese, lettuce, tomato and Honey Mustard",
+            "price": 12.49
+        },
+        {
+            "name": "#6 Lunch Wrap",
+            "ingredients": "Virginia Ham with Swiss cheese, lettuce, tomato and deli mustard",
+            "price": 12.49
+        },
+        {
+            "name": "#7 Lunch Wrap",
+            "ingredients": "Boar's Head Chicken Breast with Mozzerella cheese, lettuce and marinated sun dried tomato dressing",
+            "price": 12.49
+        },
+        {
+            "name": "#8 Lunch Wrap",
+            "ingredients": "Tuna Salad with Swiss cheese, lettuce and tomato",
+            "price": 12.49
+        },
+        {
+            "name": "#9 Lunch Wrap",
+            "ingredients": "Chicken Salad with American cheese, lettuce and tomato",
+            "price": 12.49
+        },
+        {
+            "name": "#10 Lunch Wrap",
+            "ingredients": "Turkey with Alpine swiss, lettuce and cranberry sauce",
+            "price": 12.49
+        },
+        {
+            "name": "#11 Lunch Wrap",
+            "ingredients": "Grilled Chicken with Feta cheese, lettuce, tomato and Italian dressing",
+            "price": 12.49
+        },
+        {
+            "name": "#12 Lunch Wrap",
+            "ingredients": "Cajun Turkey with Cheddar cheese, lettuce, tomato and ranch dressing",
+            "price": 12.49
+        }
+    ],
+    "sandwiches": [
+        {
+            "name": "All American",
+            "ingredients": "Ham with Turkey, Roast Beef, American & Swiss cheese, lettuce, tomato and mayo",
+            "price": 13.99
+        },
+        {
+            "name": "Big Boy",
+            "ingredients": "Roast Beef with melted Mozzerella cheese on toasted garlic bread",
+            "price": 13.99
+        },
+        {
+            "name": "Buffalo Bill",
+            "ingredients": "Chicken Cutlet with hot sauce, blue cheese dressing and tomato",
+            "price": 13.99
+        },
+        {
+            "name": "Centereach Worx",
+            "ingredients": "Chicken Cutlet with Bacon, American cheese, lettuce, tomato and mayo",
+            "price": 13.99
+        },
+        {
+            "name": "Chicken Melt",
+            "ingredients": "Grilled Chicken with melted Mozzerella, red roasted peppers and toasted garlic bread",
+            "price": 13.99
+        },
+        {
+            "name": "Godfather",
+            "ingredients": "Ham Cappy, Sopressata, Mortadella, Pepperoni, Prosciutto, Provolone, lettuce, tomato, oil & vinegar and sun dried tomato",
+            "price": 13.99
+        },
+        {
+            "name": "Grand Hotel",
+            "ingredients": "Roast Beef, lettuce and horseradish",
+            "price": 12.99
+        },
+        {
+            "name": "Golden Eye",
+            "ingredients": "Golden Chicken Breast with Bacon, melted Cheddar cheese, tomato and Russian dressing",
+            "price": 13.99
+        },
+        {
+            "name": "Home Run",
+            "ingredients": "Roast Beef with Turkey with Fresh Mozzerella cheese, lettuce and Honey Mustard",
+            "price": 13.99
+        },
+        {
+            "name": "Honey Bee",
+            "ingredients": "Honey Maple Turkey with Virginia Ham, Muenster cheese, lettuce, tomato and Honey Mustard",
+            "price": 13.99
+        },
+        {
+            "name": "Italian Vegetarian",
+            "ingredients": "Fresh Mozzerella with red roasted peppers, pesto sauce, lettuce and tomato",
+            "price": 12.99
+        },
+        {
+            "name": "Pastrami Melt",
+            "ingredients": "Pastrami with melted Mozzarella cheese, coleslaw and mustard",
+            "price": 13.99
+        },
+        {
+            "name": "Renegade",
+            "ingredients": "Roast Beef with Bacon, melted American cheese, lettuce, tomato and mayo",
+            "price": 13.99
+        },
+        {
+            "name": "Rueben",
+            "ingredients": "Corn Beef and Swiss cheese, sour kraut and Russian dressing and toasted rye bread",
+            "price": 12.99
+        },
+        {
+            "name": "Smokey",
+            "ingredients": "Cajun Trukey with Cheddar cheese, lettuce, banana peppers and ranch",
+            "price": 13.99
+        },
+        {
+            "name": "Tuna Melt",
+            "ingredients": "Tuna Salad with melted American cheese on rye toast",
+            "price": 12.99
+        },
+        {
+            "name": "Turkey Club",
+            "ingredients": "Turkey with Bacon, Swiss cheese, lettuce, tomato and mayo",
+            "price": 13.99
+        },
+        {
+            "name": "Yankee Peddler",
+            "ingredients": "Chicken Cutlet with Bacon, melted Cheddar and coleslaw",
+            "price": 13.99
+        }
+    ]
+}
