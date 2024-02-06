@@ -1,5 +1,5 @@
 {
-    "wraps": [
+    "items": [
         {
             "name": "#1 Lunch Wrap",
             "ingredients": "Honey Turkey with Muenster cheese, lettuce, tomato, Honey Mustard",
@@ -59,9 +59,7 @@
             "name": "#12 Lunch Wrap",
             "ingredients": "Cajun Turkey with Cheddar cheese, lettuce, tomato and ranch dressing",
             "price": 12.49
-        }
-    ],
-    "sandwiches": [
+        },
         {
             "name": "All American",
             "ingredients": "Ham with Turkey, Roast Beef, American & Swiss cheese, lettuce, tomato and mayo",

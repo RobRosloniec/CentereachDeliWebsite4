@@ -1,10 +1,17 @@
-import breakfast from '../../data/breakfast.json'
-import lunch     from '../../data/lunch.json'
+import React, { useState }  from 'react';
+import Header    from '../Header/Header.js'
+import Body      from '../Body/Body.js'
+
 const Homescreen = () => {
-    console.log(breakfast,lunch)
+    
+    const [display, setDisplay] = useState("breakfast")
+
     return(
-        <div className='bg-slate-500'>
-            Shalome
+        <div className='flex bg-slate-500 h-screen w-screen justify-center'>
+            <Header setDisplay={setDisplay}/>
+            <Body
+                display={display}
+            />
         </div>
     )
 }
