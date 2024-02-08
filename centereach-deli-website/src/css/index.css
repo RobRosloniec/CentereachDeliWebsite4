@@ -15,3 +15,84 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  --s: 45px;
+  /* control the size */
+  --b: 15px;
+  /* control the thickness of the curved lines */
+
+  --_r: calc(1.28*var(--s) + var(--b)/2) at top 50%;
+  --_f: calc(99.5% - var(--b)), #F9F2E7 calc(101% - var(--b)) 99.5%, #0000 101%;
+  --_g0: calc(-.8*var(--s)), #88A65E var(--_f);
+  --_g1: calc(-.8*var(--s)), #BFB35A var(--_f);
+  --_s: calc(1.8*var(--s) + var(--b));
+  background:
+    radial-gradient(var(--_r) right var(--_g0)) calc(-1*var(--_s)) var(--s),
+    radial-gradient(var(--_r) left var(--_g1)) var(--_s) calc(-1*var(--s)),
+    radial-gradient(var(--_r) right var(--_g1)) calc(var(--_s)/-2) calc(-1*var(--s)),
+    radial-gradient(var(--_r) left var(--_g0)) calc(var(--_s)/ 2) var(--s),
+    linear-gradient(90deg, #88A65E 50%, #BFB35A 0);
+  background-size: var(--_s) calc(4*var(--s));
+}
+
+.bm-item {
+  display: inline-block;
+
+  /* Our sidebar item styling */
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: #d1d1d1;
+  transition: color 0.2s;
+}
+
+.bm-item:hover {
+  color: white;
+}
+
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #373a47;
+  border-radius: 24px;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #000;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
